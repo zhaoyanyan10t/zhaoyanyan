@@ -1,0 +1,87 @@
+﻿生成启动时间为 2019/11/18 16:35:22。
+     1>项目“D:\vscode\C\Project66\Project66\Project66.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt test.c
+         test.c
+     1>d:\vscode\c\project66\project66\test.c(22): error C2061: 语法错误: 标识符“M”
+     1>d:\vscode\c\project66\project66\test.c(22): error C2059: 语法错误:“;”
+     1>d:\vscode\c\project66\project66\test.c(22): error C3409: 不允许空特性块
+     1>d:\vscode\c\project66\project66\test.c(22): error C2143: 语法错误 : 缺少“]”(在“常量”的前面)
+     1>d:\vscode\c\project66\project66\test.c(23): error C2061: 语法错误: 标识符“s”
+     1>d:\vscode\c\project66\project66\test.c(23): error C2059: 语法错误:“;”
+     1>d:\vscode\c\project66\project66\test.c(24): error C2061: 语法错误: 标识符“str”
+     1>d:\vscode\c\project66\project66\test.c(24): error C2059: 语法错误:“;”
+     1>d:\vscode\c\project66\project66\test.c(28): error C2065: “M”: 未声明的标识符
+     1>d:\vscode\c\project66\project66\test.c(28): error C2109: 下标要求数组或指针类型
+     1>d:\vscode\c\project66\project66\test.c(29): error C2065: “M”: 未声明的标识符
+     1>d:\vscode\c\project66\project66\test.c(29): error C2109: 下标要求数组或指针类型
+     1>d:\vscode\c\project66\project66\test.c(30): error C2065: “M”: 未声明的标识符
+     1>d:\vscode\c\project66\project66\test.c(30): error C2109: 下标要求数组或指针类型
+     1>d:\vscode\c\project66\project66\test.c(31): error C2065: “M”: 未声明的标识符
+     1>d:\vscode\c\project66\project66\test.c(31): error C2109: 下标要求数组或指针类型
+     1>d:\vscode\c\project66\project66\test.c(32): error C2065: “M”: 未声明的标识符
+     1>d:\vscode\c\project66\project66\test.c(32): error C2109: 下标要求数组或指针类型
+     1>d:\vscode\c\project66\project66\test.c(33): error C2065: “M”: 未声明的标识符
+     1>d:\vscode\c\project66\project66\test.c(33): error C2109: 下标要求数组或指针类型
+     1>d:\vscode\c\project66\project66\test.c(34): error C2065: “M”: 未声明的标识符
+     1>d:\vscode\c\project66\project66\test.c(34): error C2109: 下标要求数组或指针类型
+     1>d:\vscode\c\project66\project66\test.c(35): error C2065: “M”: 未声明的标识符
+     1>d:\vscode\c\project66\project66\test.c(35): error C2109: 下标要求数组或指针类型
+     1>d:\vscode\c\project66\project66\test.c(36): error C2065: “M”: 未声明的标识符
+     1>d:\vscode\c\project66\project66\test.c(36): error C2109: 下标要求数组或指针类型
+     1>d:\vscode\c\project66\project66\test.c(37): error C2065: “M”: 未声明的标识符
+     1>d:\vscode\c\project66\project66\test.c(37): error C2109: 下标要求数组或指针类型
+     1>d:\vscode\c\project66\project66\test.c(38): error C2065: “M”: 未声明的标识符
+     1>d:\vscode\c\project66\project66\test.c(38): error C2109: 下标要求数组或指针类型
+     1>d:\vscode\c\project66\project66\test.c(39): error C2065: “M”: 未声明的标识符
+     1>d:\vscode\c\project66\project66\test.c(39): error C2109: 下标要求数组或指针类型
+     1>d:\vscode\c\project66\project66\test.c(40): error C2065: “M”: 未声明的标识符
+     1>d:\vscode\c\project66\project66\test.c(40): error C2109: 下标要求数组或指针类型
+     1>d:\vscode\c\project66\project66\test.c(43): error C2146: 语法错误: 缺少“)”(在标识符“a”的前面)
+     1>d:\vscode\c\project66\project66\test.c(43): error C2061: 语法错误: 标识符“a”
+     1>d:\vscode\c\project66\project66\test.c(43): error C2059: 语法错误:“;”
+     1>d:\vscode\c\project66\project66\test.c(43): error C2059: 语法错误:“,”
+     1>d:\vscode\c\project66\project66\test.c(43): error C2059: 语法错误:“)”
+     1>d:\vscode\c\project66\project66\test.c(82): error C2065: “str”: 未声明的标识符
+     1>d:\vscode\c\project66\project66\test.c(82): error C2224: “.c”的左侧必须具有结构/联合类型
+     1>d:\vscode\c\project66\project66\test.c(82): error C2198: “gets”: 用于调用的参数太少
+     1>d:\vscode\c\project66\project66\test.c(83): error C2065: “str”: 未声明的标识符
+     1>d:\vscode\c\project66\project66\test.c(83): error C2224: “.c”的左侧必须具有结构/联合类型
+     1>d:\vscode\c\project66\project66\test.c(83): error C2198: “strcat”: 用于调用的参数太少
+     1>d:\vscode\c\project66\project66\test.c(84): error C2065: “s”: 未声明的标识符
+     1>d:\vscode\c\project66\project66\test.c(84): error C2224: “.i”的左侧必须具有结构/联合类型
+     1>d:\vscode\c\project66\project66\test.c(85): error C2065: “s”: 未声明的标识符
+     1>d:\vscode\c\project66\project66\test.c(85): error C2224: “.c”的左侧必须具有结构/联合类型
+     1>d:\vscode\c\project66\project66\test.c(85): error C2224: “.i”的左侧必须具有结构/联合类型
+     1>d:\vscode\c\project66\project66\test.c(86): error C2065: “str”: 未声明的标识符
+     1>d:\vscode\c\project66\project66\test.c(86): error C2224: “.j”的左侧必须具有结构/联合类型
+     1>d:\vscode\c\project66\project66\test.c(88): error C2065: “s”: 未声明的标识符
+     1>d:\vscode\c\project66\project66\test.c(88): error C2224: “.i”的左侧必须具有结构/联合类型
+     1>d:\vscode\c\project66\project66\test.c(89): error C2065: “s”: 未声明的标识符
+     1>d:\vscode\c\project66\project66\test.c(89): error C2224: “.c”的左侧必须具有结构/联合类型
+     1>d:\vscode\c\project66\project66\test.c(89): error C2224: “.i”的左侧必须具有结构/联合类型
+     1>d:\vscode\c\project66\project66\test.c(93): error C2065: “s”: 未声明的标识符
+     1>d:\vscode\c\project66\project66\test.c(93): error C2224: “.c”的左侧必须具有结构/联合类型
+     1>d:\vscode\c\project66\project66\test.c(93): error C2224: “.i”的左侧必须具有结构/联合类型
+     1>d:\vscode\c\project66\project66\test.c(95): error C2065: “s”: 未声明的标识符
+     1>d:\vscode\c\project66\project66\test.c(95): error C2224: “.c”的左侧必须具有结构/联合类型
+     1>d:\vscode\c\project66\project66\test.c(95): error C2224: “.i”的左侧必须具有结构/联合类型
+     1>d:\vscode\c\project66\project66\test.c(95): error C2065: “str”: 未声明的标识符
+     1>d:\vscode\c\project66\project66\test.c(95): error C2224: “.j”的左侧必须具有结构/联合类型
+     1>d:\vscode\c\project66\project66\test.c(97): error C2065: “str”: 未声明的标识符
+     1>d:\vscode\c\project66\project66\test.c(97): error C2224: “.c”的左侧必须具有结构/联合类型
+     1>d:\vscode\c\project66\project66\test.c(97): error C2224: “.j”的左侧必须具有结构/联合类型
+     1>d:\vscode\c\project66\project66\test.c(104): error C2065: “s”: 未声明的标识符
+     1>d:\vscode\c\project66\project66\test.c(104): error C2224: “.i”的左侧必须具有结构/联合类型
+     1>d:\vscode\c\project66\project66\test.c(105): error C2065: “str”: 未声明的标识符
+     1>d:\vscode\c\project66\project66\test.c(105): error C2224: “.j”的左侧必须具有结构/联合类型
+     1>d:\vscode\c\project66\project66\test.c(117): warning C4013: “Find_table”未定义；假设外部返回 int
+     1>d:\vscode\c\project66\project66\test.c(117): error C2065: “s”: 未声明的标识符
+     1>d:\vscode\c\project66\project66\test.c(117): error C2065: “str”: 未声明的标识符
+     1>d:\vscode\c\project66\project66\test.c(117): error C2224: “.c”的左侧必须具有结构/联合类型
+     1>d:\vscode\c\project66\project66\test.c(117): error C2224: “.j”的左侧必须具有结构/联合类型
+     1>已完成生成项目“D:\vscode\C\Project66\Project66\Project66.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.44
