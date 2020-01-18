@@ -1,0 +1,11 @@
+﻿生成启动时间为 2019/8/3 18:26:31。
+     1>项目“D:\Program Files\lizi\Project24\Project24\Project24.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt "源.c"
+         源.c
+     1>d:\program files\lizi\project24\project24\源.c(38): fatal error C1075: 与左侧的 大括号“{”(位于“d:\program files\lizi\project24\project24\源.c(4)”)匹配之前遇到文件结束
+     1>已完成生成项目“D:\Program Files\lizi\Project24\Project24\Project24.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.38
