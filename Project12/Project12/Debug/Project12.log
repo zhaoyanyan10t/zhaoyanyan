@@ -1,0 +1,18 @@
+﻿生成启动时间为 2019/7/27 10:51:34。
+     1>项目“D:\Program Files\lizi\Project12\Project12\Project12.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt 4.c
+         4.c
+     1>d:\program files\lizi\project12\project12\4.c(17): warning C4047: “函数”:“int *”与“int”的间接级别不同
+     1>d:\program files\lizi\project12\project12\4.c(17): warning C4024: “show”: 形参和实参 1 的类型不同
+       Link:
+         D:\Program Files\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Program Files\lizi\Project12\Debug\Project12.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Program Files\lizi\Project12\Debug\Project12.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Program Files\lizi\Project12\Debug\Project12.lib" /MACHINE:X86 Debug\3.obj
+         Debug\4.obj
+     1>4.obj : error LNK2005: _main 已经在 3.obj 中定义
+     1>4.obj : error LNK2005: _show 已经在 3.obj 中定义
+     1>D:\Program Files\lizi\Project12\Debug\Project12.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
+     1>已完成生成项目“D:\Program Files\lizi\Project12\Project12\Project12.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:01.18
