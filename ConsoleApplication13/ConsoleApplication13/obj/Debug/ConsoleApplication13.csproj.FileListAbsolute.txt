@@ -1,0 +1,5 @@
+D:\vscode\C#\ConsoleApplication13\ConsoleApplication13\bin\Debug\ConsoleApplication13.exe.config
+D:\vscode\C#\ConsoleApplication13\ConsoleApplication13\bin\Debug\ConsoleApplication13.exe
+D:\vscode\C#\ConsoleApplication13\ConsoleApplication13\bin\Debug\ConsoleApplication13.pdb
+D:\vscode\C#\ConsoleApplication13\ConsoleApplication13\obj\Debug\ConsoleApplication13.exe
+D:\vscode\C#\ConsoleApplication13\ConsoleApplication13\obj\Debug\ConsoleApplication13.pdb
