@@ -1,0 +1,6 @@
+D:\code\vscode\C#\ConsoleApplication17\ConsoleApplication17\bin\Debug\ConsoleApplication17.exe.config
+D:\code\vscode\C#\ConsoleApplication17\ConsoleApplication17\bin\Debug\ConsoleApplication17.exe
+D:\code\vscode\C#\ConsoleApplication17\ConsoleApplication17\bin\Debug\ConsoleApplication17.pdb
+D:\code\vscode\C#\ConsoleApplication17\ConsoleApplication17\obj\Debug\ConsoleApplication17.csprojResolveAssemblyReference.cache
+D:\code\vscode\C#\ConsoleApplication17\ConsoleApplication17\obj\Debug\ConsoleApplication17.exe
+D:\code\vscode\C#\ConsoleApplication17\ConsoleApplication17\obj\Debug\ConsoleApplication17.pdb
