@@ -1,0 +1,5 @@
+D:\code\vscode\web\Experiment3\ExSite\bin\ExSite.dll
+D:\code\vscode\web\Experiment3\ExSite\bin\ExSite.pdb
+D:\code\vscode\web\Experiment3\ExSite\obj\Debug\ExSite.csprojResolveAssemblyReference.cache
+D:\code\vscode\web\Experiment3\ExSite\obj\Debug\ExSite.dll
+D:\code\vscode\web\Experiment3\ExSite\obj\Debug\ExSite.pdb
