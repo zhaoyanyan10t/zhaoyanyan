@@ -1,0 +1,5 @@
+D:\code\vscode\web\Experiment6\Ex6ChatSite\obj\Debug\Ex6ChatSite.csprojResolveAssemblyReference.cache
+D:\code\vscode\web\Experiment6\Ex6ChatSite\bin\Ex6ChatSite.dll
+D:\code\vscode\web\Experiment6\Ex6ChatSite\bin\Ex6ChatSite.pdb
+D:\code\vscode\web\Experiment6\Ex6ChatSite\obj\Debug\Ex6ChatSite.dll
+D:\code\vscode\web\Experiment6\Ex6ChatSite\obj\Debug\Ex6ChatSite.pdb

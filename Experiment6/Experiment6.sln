@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex6ChatSite", "Ex6ChatSite\Ex6ChatSite.csproj", "{D62AC499-E1FF-469A-A941-94F720B01FB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex6Card.aspx", "Ex6Card.aspx\Ex6Card.aspx.csproj", "{91125F40-1C15-4DA7-8811-CA7F86A8EEC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D62AC499-E1FF-469A-A941-94F720B01FB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D62AC499-E1FF-469A-A941-94F720B01FB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D62AC499-E1FF-469A-A941-94F720B01FB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D62AC499-E1FF-469A-A941-94F720B01FB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91125F40-1C15-4DA7-8811-CA7F86A8EEC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91125F40-1C15-4DA7-8811-CA7F86A8EEC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91125F40-1C15-4DA7-8811-CA7F86A8EEC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91125F40-1C15-4DA7-8811-CA7F86A8EEC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
