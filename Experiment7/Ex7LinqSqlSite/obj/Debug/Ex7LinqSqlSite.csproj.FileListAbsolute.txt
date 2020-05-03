@@ -1,0 +1,1 @@
+D:\code\vscode\web\Experiment7\Ex7LinqSqlSite\obj\Debug\Ex7LinqSqlSite.csprojResolveAssemblyReference.cache
